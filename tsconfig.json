@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-jsx",
+    "module": "es2022",
+    "moduleResolution": "NodeNext",
+    "target": "es2022",
+    "types": ["node"],
+    "jsxImportSource": "hono/jsx"
+  },
+  "include": ["src/**", "*.d.ts"]
+}
